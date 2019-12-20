@@ -8,6 +8,16 @@
  
  **_Dataset_** folder contains the dataset of tweets from Twitter for the task of Tweet Act Classification.
  
+ **_Source code_** folder contains all the code to train and test the model including preprocessing.
+ 
+ **_version.txt_** folder contains all the dependencies required to execute the model
+ 
+ **`train.py`** to train the model
+ **`test.py`** to test the model
+ **`prep.py`** to run BERT
+ **`extra_features.ipynb`** to add extra features
+ 
+ 
 If you consider this dataset as useful, please cite it as
 ```bash
 @INPROCEEDINGS{8851805,
