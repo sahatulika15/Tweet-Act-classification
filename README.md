@@ -13,8 +13,11 @@
  **_version.txt_** folder contains all the dependencies required to execute the model
  
  **`train.py`** to train the model
+ 
  **`test.py`** to test the model
+ 
  **`prep.py`** to run BERT
+ 
  **`extra_features.ipynb`** to add extra features
  
  
