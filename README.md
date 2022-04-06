@@ -8,7 +8,7 @@
 * **Authors:** Tulika Saha, Sriparna Saha and Pushpak Bhattacharyya
 * **Affiliation:** Indian Institute of Technology Patna, India
 * **Corresponding Author:** [Tulika Saha] (sahatulika15@gmail.com)
-* * **Accepted(April, 2019):**  [Proceedings of the International Joint Conference on Neural Networks (IJCNN), 2019](10.1109/IJCNN.2019.8851805)
+* **Accepted(April, 2019):**  [Proceedings of the International Joint Conference on Neural Networks (IJCNN), 2019](10.1109/IJCNN.2019.8851805)
 
  
 If you consider this dataset as useful, please cite it as
