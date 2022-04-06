@@ -26,7 +26,7 @@ publisher={IEEE}
 }
 ```
 
-# Decsription
+# Description
  
  **_Dataset_** folder contains the dataset of tweets from Twitter for the task of Tweet Act Classification.
  1. The 7 TA annotated catefories are "Statement (STA)", "Question (QUE)", "Expression (EXP)", "Suggestion (SUG)", "Request (REQ)", "Threat (THT)" and "Others (OTH)".
